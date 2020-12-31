@@ -1,0 +1,11 @@
+remove debug-
+MaterialApp(
+      debugShowCheckedModeBanner: false,
+      );
+      
+      
+sagar@sagar-Lenovo-ideapad-330-15IKB:~/AndroidStudioProjects/school_project/flutter_app$ export PATH=/home/sagar/Documents/flutter/flutter/bin:$PATH
+sagar@sagar-Lenovo-ideapad-330-15IKB:~/AndroidStudioProjects/school_project/flutter_app$ source ~/.profile
+sagar@sagar-Lenovo-ideapad-330-15IKB:~/AndroidStudioProjects/school_project/flutter_app$ flutter doctor
+     
+      
